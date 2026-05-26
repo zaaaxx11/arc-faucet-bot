@@ -1,6 +1,6 @@
 {
   "generated_wallets": [
-    {"address": "0x1234...example1"},
-    {"address": "0x5678...example2"}
+    {"address": "0x1234...example", "pk": "your_private_key_here"},
+    {"address": "0x5678...example", "pk": "your_private_key_here"}
   ]
 }
