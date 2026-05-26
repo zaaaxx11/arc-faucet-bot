@@ -1,0 +1,6 @@
+.env
+wallets.json
+*.json
+!wallets_example.json
+__pycache__/
+*.pyc
